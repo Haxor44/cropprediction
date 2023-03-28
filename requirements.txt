@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 alabaster==0.7.12
 asgiref==3.6.0
 astatine==0.3.2
