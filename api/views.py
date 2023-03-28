@@ -6,8 +6,8 @@ import numpy as np
 
 @api_view(['GET'])
 def getData(request):
-	person = {'name':'Toto','age':20}
-	return Response(person)
+	test = {'name':'It works!!!'}
+	return Response(test)
 
 @api_view(['POST'])
 def getCrop(request):
