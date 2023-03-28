@@ -182,3 +182,4 @@ virtualenv==20.14.1
 wemake-python-styleguide==0.16.1
 wrapt==1.14.1
 zipp==3.8.0
+
